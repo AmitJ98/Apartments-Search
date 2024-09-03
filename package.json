@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "yad2-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amit Joseph",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "twilio": "^5.2.2"
+  }
+}
